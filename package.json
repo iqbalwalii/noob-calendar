@@ -2,6 +2,9 @@
   "name": "react",
   "version": "1.0.0",
   "description": "ASSESSMENT",
+  "engines": {
+    "node": "14.x"
+  },
   "keywords": [
     "react",
     "starter"
